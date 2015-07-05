@@ -1,4 +1,5 @@
 # xscml
-XSCML - Supply Chain Markup Language for SCOM*
+XSCML* - The Markup Language for SCOM**
 
-*SCOM: Multi-Layer Ontological Model for Supply Chain Systems
+*XSCML: Supply Chain Markup Language
+**SCOM: Multi-Layer Ontological Model for Supply Chain Systems
